@@ -132,7 +132,7 @@ public class VaccinationCentre {
 
         ArrayList<Node> data = new ArrayList<>();
 
-        //parsing and adding each
+        //parsing and assigning each person's details to variables
         for (Object o : peopleArray) {
 
             JSONObject person = (JSONObject) o;
@@ -174,7 +174,6 @@ public class VaccinationCentre {
         //printing the list according
         vc.printList(corkCityHall, "Cork");
         vc.printList(dublinConventionCentre, "Dublin");
-
         vc.printList(galwayRaceCourse, "Galway");
 
     }
