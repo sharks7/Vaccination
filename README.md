@@ -8,7 +8,7 @@ The Vaccination Centre should priortise people based on their age and will the i
 
 The main class (VaccinationCentre) reads the text file and stores all the individual's detail in an arraylist of node object.
 
-The Node class is a pojo class consisting of name, age, longitude, and latitude address as variables. It is used to store in
+The Node class is a entity class consisting of name, age, longitude, and latitude address as variables. It is used to store in
 the node arraylist.
 
 The People class has name and age as variables which is used to print the person details after grouped in a vaccination centre.
