@@ -11,4 +11,3 @@ The main class (VaccinationCentre) reads the text file and stores all the indivi
 The Node class is a entity class consisting of name, age, longitude, and latitude address as variables. It is used to store in
 the node arraylist.
 
-The People class has name and age as variables which is used to print the person details after grouped in a vaccination centre.
