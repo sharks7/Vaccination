@@ -2,7 +2,7 @@
 
 This project is for mapping a list of individuals, present in a json encoded text file, to their nearest covid vaccination centre.
 
-The Vaccination Centre should priortise people based on their age and will the individual's name and contact details.
+The Vaccination Centre should priortise people based on their age and will print the individual's name and contact details.
 
 # Project Details
 
